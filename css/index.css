@@ -186,6 +186,7 @@ header p{
 	line-height: 0.35rem;
 	padding-left: 2.525rem;
 	text-decoration: line-through;
+	margin-top: 1px
 }
 .box_a{
 	width: 100%;
@@ -198,19 +199,19 @@ header p{
 	width: 2.4rem;
 	font-size: 0.5rem;
 	color: #fff;
-	padding: 0.2rem 0 0.175rem;
+	padding: 0.2rem 0 0.15rem;
 	line-height: 0.5rem;
 	text-align: center;
 	border-radius: 0.075rem;
 }
 .box_a a:nth-child(1){
 	background: #1e9ae4;
-	margin-left: 0.3rem;
+	margin-left: 0.225rem;
 }
 .box_a a:nth-child(2){
 	background: #f05867;
 	float: right;
-	margin-right: 0.3rem;
+	margin-right: 0.225rem;
 }
 .main3{
 	overflow: hidden;
