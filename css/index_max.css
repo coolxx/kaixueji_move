@@ -199,12 +199,16 @@ header p{
 }
 .box_a a:nth-child(2){
 	background: #f05867;
-	margin-left: 13px;
+	margin-right: 12px;
+	float: right;
 }
 .main3{
 	overflow: hidden;
 	width: 720px;
 	margin-top: 33px;
+}
+.main3 .box_tt img {
+    height: 18px;
 }
 .main4{
 	overflow: hidden;
